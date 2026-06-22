@@ -16,7 +16,7 @@ Hi, I'm Rahul Solanke<br><br>🎓 Computer Engineering Student | Vishwakarma Ins
 # 👨‍💻 LeetCode
 
 <div align="center">
-<a href="https://leetcode.com/u/parthchn28/">
+<a href="https://leetcode.com/u/NirbhayChukekar/">
   <img src="https://leetcard.jacoblin.cool/parthchn28?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=10" width="50%"/>
 </a>
 </div>

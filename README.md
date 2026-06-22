@@ -13,3 +13,11 @@ Hi, I'm Rahul Solanke<br><br>🎓 Computer Engineering Student | Vishwakarma Ins
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-2005-git&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 LeetCode
+
+<div align="center">
+<a href="https://leetcode.com/u/parthchn28/">
+  <img src="https://leetcard.jacoblin.cool/parthchn28?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=10" width="50%"/>
+</a>
+</div>
+
